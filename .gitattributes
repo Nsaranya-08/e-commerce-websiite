@@ -1,3 +1,0 @@
-# Auto detect text files and perform LF normalization
-* text=auto
-.angular/cache/** filter=lfs diff=lfs merge=lfs -text
